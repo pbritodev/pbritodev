@@ -2,4 +2,4 @@
 - 👀 I’m passionate about tecnology
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me https://www.linkedin.com/in/pedro-henrique-vodovoz-de-brito-12b13a218/
+- 📫 How to reach me https://www.linkedin.com/in/pedro-brito-12b13a218/
