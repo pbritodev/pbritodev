@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-brito-12b13a218/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Brito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/pedro-brito-12b13a218/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Brito-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://github.com/pbritodev/treino-certo"><img src="https://img.shields.io/badge/Projeto%20em%20destaque-TreinoCerto-2E7D32?style=for-the-badge&logo=android&logoColor=white" alt="TreinoCerto"></a>
 </p>
 
@@ -40,7 +40,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 </p>
@@ -74,13 +74,6 @@ App Android em **Kotlin** que gera um **plano de treino personalizado** a partir
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
-</p>
-
-## 📈 Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pbritodev&show_icons=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbritodev&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais usadas">
 </p>
 
 ## 📫 Contato
